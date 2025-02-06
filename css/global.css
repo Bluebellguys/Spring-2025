@@ -1,0 +1,20 @@
+/* Colors */
+
+/*
+60% of #49B68E - Primary
+30% of #49A7B6 - Secondary
+10% of #49B65B - Accent
+*/
+
+:root {
+
+/* var(--primaryColor) !important; */
+--primaryColor: #49B68E;
+
+/* var(--secondaryColor) !important; */
+--secondaryColor: #49A7B6;
+
+/* var(--accentColor) !important; */
+--accentColor: #49B65B;
+
+}
