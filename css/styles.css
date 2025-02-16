@@ -8,3 +8,33 @@
 .col:nth-of-type(2) {
     background-color: aquamarine;
 }
+.col:nth-of-type(3) {
+    background-color: bisque;
+}
+.col:nth-of-type(4) {
+    background-color: salmon;
+}
+.col:nth-of-type(5) {
+    background-color: floralwhite;
+}
+.col:nth-of-type(6) {
+    background-color: yellow;
+}
+.col:nth-of-type(7) {
+    background-color: olivedrab;
+}
+.col:nth-of-type(8) {
+    background-color: indianred;
+}
+.col:nth-of-type(9) {
+    background-color: maroon;
+}
+.col:nth-of-type(10) {
+    background-color: darkgray;
+}
+.col:nth-of-type(11) {
+    background-color: violet;
+}
+.col:nth-of-type(12) {
+    background-color: rebeccapurple;
+}
