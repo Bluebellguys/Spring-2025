@@ -6,10 +6,11 @@ body {
 }
 
 .blinn-fa-icon {
-    font-size: 80px;
+    font-size: 60px;
     color: cadetblue;
 }
 
 .blinn-fa-container{
     background-color: blanchedalmond;
+    padding: 50px;
 }
