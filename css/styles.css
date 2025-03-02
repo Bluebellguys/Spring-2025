@@ -7,10 +7,10 @@ body {
 
 .blinn-fa-icon {
     font-size: 60px;
-    color: cadetblue;
+    color: rgb(91, 136, 137);
 }
 
 .blinn-fa-container{
-    background-color: blanchedalmond;
+    background-color: rgb(25, 29, 54);
     padding: 50px;
 }
