@@ -10,10 +10,16 @@ p {
     color: #5b8889;
 }
 
+
+.blinn-fa-icon a {
+    color: white !important;
+}
+
 .blinn-fa-container{
     background-color: #191d36;
     padding: 50px;
 }
+
 
 .paragraph-one-img {
     position: relative;
@@ -30,5 +36,5 @@ p {
     width: 100%;
     height: 280px;
     background-color: var(--secondaryColor) !important;
-    clip-path: polygon(0 0, 100% 0%, 70% 100%, 0% 100%);
+    clip-path: polygon(0 0, 100% 0%, 68% 50%, 0 50%);
 }
