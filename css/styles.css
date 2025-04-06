@@ -29,6 +29,6 @@ p {
 #custoom-clip-path {
     width: 100%;
     height: 280px;
-    background-color: var(--secondaryColor) !important;
-    
+    background-color: white;
+
 }
