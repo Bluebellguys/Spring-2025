@@ -41,4 +41,6 @@ p {
     height: 280px;
     background-color: var(--secondaryColor) !important;
     clip-path: polygon(100% 0, 0 0, 0 35%);
+    position: relative;
+    margin-top: -5px;
 }
