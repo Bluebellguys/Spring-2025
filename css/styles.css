@@ -20,6 +20,10 @@ p {
     padding: 50px;
 }
 
+.blinn-fa-container a{
+    color: white !important;
+}
+
 
 .paragraph-one-img {
     position: relative;
@@ -36,5 +40,5 @@ p {
     width: 100%;
     height: 280px;
     background-color: var(--secondaryColor) !important;
-    clip-path: polygon(0 0, 100% 0%, 68% 50%, 0 50%);
+    clip-path: polygon(100% 0, 0 0, 0 35%);
 }
