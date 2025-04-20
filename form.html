@@ -59,19 +59,19 @@
         <!-- Email - email -->
     <div>
         <label for="email">Email</label>
-        <input type="email"  name="email"/>
+        <input type="email" id="email" name="email"/>
     </div>
 
         <!-- phone -->
     <div>
         <label for="phone">Phone</label>
-        <input type="text"  name="phone" placeholer="(###) ###-###"/>
+        <input type="text" id="phone" name="phone" placeholer="(###) ###-###"/>
     </div>
 
         <!-- Start Date - date -->
     <div>
         <label for="start-date">Start Date</label>
-        <input type="date"  name="startDate" required/>
+        <input type="date" id="start-date" name="startDate" required/>
     </div>
 
         <!-- Tshirt - Select field -->
@@ -86,14 +86,22 @@
         <option value="L">L</option>
         <option value="XL">XL</option>
         <option value="XXL">XXL</option>
+        <option value="CUSTOM">CUSTOM</option>
        </select>
        <input type="text" name="custom" placeholder="Please input custome size" disabled />
     </div>
 
+        <!-- Tshirt Color - Color -->
+    <div>
+         <label for="color">Tshirt Color</label>
+          <input type="color"  name="color" id="color"/>
+    </div>
+
+
 
 <!-- submit button -->
 <div>
-<input type="sumbit" name="submit" value="Volunteer Now" />
+<input type="sumbit" name="submit" value="Volunteer Now" class="sumbit"/>
 </div>
 
 </div>
