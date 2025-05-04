@@ -5,6 +5,13 @@ p {
    font-family: var(--fontFamily) !important;
 }
 
+.carousel-caption {
+    background-color: antiquewhite;
+    color: antiquewhite !important;
+}
+
+
+
 .blinn-fa-icon {
     font-size: 60px;
     color: #7b936d;
