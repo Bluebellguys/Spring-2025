@@ -37,7 +37,7 @@
     height: 20px !important;
 }
 
-.sumbit {
+.submit {
     border-color: var(--secondaryColor) !important;
     background-color: #fffffd;
     color: var(--secondaryColor) !important;
