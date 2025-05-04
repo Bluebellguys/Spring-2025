@@ -11,10 +11,10 @@
 :root {
 
 /* var(--primaryColor) !important; */
---primaryColor: #315c4c;
+--primaryColor: #0c6947;
 
 /* var(--secondaryColor) !important; */
---secondaryColor: #3b6d74;
+--secondaryColor: #8ec3ca;
 
 /* var(--accentColor) !important; */
 --accentColor: #244429;
