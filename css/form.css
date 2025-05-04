@@ -22,6 +22,16 @@
     display: none;
 }
 
+#terms-and-conditions {
+    width: 40px !important;
+    height: 20px !important;
+}
+
+#about-you {
+    width: 40px !important;
+    height: 20px !important;
+}
+
 .radio, .checkbox {
     width: 20px !important;
     height: 20px !important;
