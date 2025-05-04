@@ -6,8 +6,8 @@ p {
 }
 
 .carousel-caption {
-    background-color: antiquewhite;
-    color: antiquewhite !important;
+    background-color: rgba(255,255,255,0.5);
+    color: black !important;
 }
 
 
